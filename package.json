@@ -1,0 +1,20 @@
+{
+  "name": "samp037_svr_r2-1-1_win32_3",
+  "version": "1.0.0",
+  "description": "SAMP with Node JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SAMP",
+    "GTA",
+    "SAMP",
+    "SAMP",
+    "WITH",
+    "NODE"
+  ],
+  "author": "Fuat Akbar",
+  "license": "ISC"
+}
