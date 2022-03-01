@@ -1,6 +1,5 @@
 {
-    "log_level": 4,
     "entry_file": "index.js",
-    "enable_resources": false,
-    "resources_path": "samp-node"
+    "log_level": 4,
+    "enable_resources": false
 }
